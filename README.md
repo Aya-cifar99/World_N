@@ -7,15 +7,15 @@ The start is easy; you need to run "Main" class from "src" directory and this co
 Hello! Welcome to the game..
  Good Luck :) 
     # Main options :-
-a -> Left
-d -> Right
-w -> Forward
-s -> Backword
-l -> Look
-f -> Use_Flashlight
-t -> Turn_Lights
-p -> Player_Status
-r -> Restart
-q -> Quit
+-a -> Left
+-d -> Right
+-w -> Forward
+-s -> Backword
+-l -> Look
+--f -> Use_Flashlight
+-t -> Turn_Lights
+-p -> Player_Status
+-r -> Restart
+-q -> Quit
 
 Then enter the intended command, and then press Enter on your keyboard to explore the map and its components.
